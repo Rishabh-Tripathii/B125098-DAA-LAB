@@ -1,2 +1,3 @@
 # B125098-DAA-LAB
-Solutions of DAA LAB(3rd semester)
+This repo contains all the solutions of DAA LAB(3rd semester) along with the approaches in the readme file for each question.
+
